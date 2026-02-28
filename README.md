@@ -128,15 +128,19 @@ The Power BI dashboard provides interactive insights into:
 
 ---
 
-## 🖥 Dashboard Preview
+## 🖥 Dashboard Overview
 
 This overview page includes interactive slicers for Year, Quarter, Month, and Product, allowing dynamic filtering of KPIs and visuals.
 
 ![Dashboard Overview](./assets/dashboard_overview.png)
 
+📊 **Power BI Dashboard:**
+
+- **Static PDF:** [Dashboard](./powerbi/Marketing_Analytics_Static_Dashboard.pdf)
+- **Interactive Dashboard:** Open `powerbi/Marketing_Analytics_Dashboard.pbix` in Power BI Desktop
+
 ## 🔗 Live Links
 
-- 📊 **Power BI Dashboard:** 📊 Full interactive dashboard can be found powerbi/ folder.
 - 💻 **Portfolio Website:** [nathnael.me](https://nathnael.me/)
 
 ## 👤 Author
