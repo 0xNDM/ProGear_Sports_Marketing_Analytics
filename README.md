@@ -136,9 +136,8 @@ This overview page includes interactive slicers for Year, Quarter, Month, and Pr
 
 ## 🔗 Live Links
 
-- 📊 **Power BI Dashboard:** 📊 [Dashboard](./powerbi/Marketing_Analytics_Dashboard.pbix)
-- 💻 **Portfolio Website:** [nathnael.me]
-- 📄 **Project Report:** [Project Report](./reports/Marketing_Analytics_Report.pptx)
+- 📊 **Power BI Dashboard:** 📊 Full interactive dashboard can be found powerbi/ folder.
+- 💻 **Portfolio Website:** [nathnael.me](https://nathnael.me/)
 
 ## 👤 Author
 
